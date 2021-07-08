@@ -1,6 +1,6 @@
 body {
   background: url(images/Headerbg.svg) no-repeat;
-  background-size: auto;
+  background-size: 100% 100%;
   line-height: 1;
   margin: 0;
   font-family: "Poppins", sans-serif;
@@ -115,7 +115,7 @@ ul.topnav li.dropdownIcon {
 
   body {
     background: url(images/Headerbg.svg) no-repeat;
-    background-size: 327px;
+    background-size: auto 100%;
     line-height: 1;
     margin: 0;
     font-family: "Poppins", sans-serif;
