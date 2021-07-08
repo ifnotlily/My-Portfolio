@@ -93,6 +93,7 @@ ul.topnav li.dropdownIcon {
   ul.topnav li:not(:nth-child(1)) {
     display: none;
   }
+
   nav {
     width: auto;
     margin-bottom: 100px;
@@ -101,14 +102,17 @@ ul.topnav li.dropdownIcon {
     margin-top: 0;
     clear: both;
   }
+
   ul.topnav li.dropdownIcon {
     display: block;
     float: right;
   }
+
   ul.topnav li.topnav-logo {
     display: block;
     float: left;
   }
+
   body {
     background: url(images/Headerbg.svg) no-repeat;
     background-size: 327px;
@@ -122,7 +126,7 @@ ul.topnav li.dropdownIcon {
     flex-direction: column;
     margin-left: 12px;
   }
- 
+
   .name {
     position: static;
     width: 327px;
