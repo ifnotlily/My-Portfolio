@@ -476,12 +476,6 @@
     color: #396df2;
   }
 
-  .about-flex-container {
-    display: flex;
-    flex-direction: column;
-    margin-left: 12px;
-  }
-
   .namee {
     position: static;
     width: 327px;
@@ -520,17 +514,7 @@
     margin-bottom: 15px;
   }
 
-  .social-icons {
-    display: flex;
-    flex-direction: row;
-    width: 170px;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    justify-content: space-between;
-  }
-
-  .buttonresume {
+   .buttonresume {
     position: static;
     display: flex;
     flex-direction: column;
