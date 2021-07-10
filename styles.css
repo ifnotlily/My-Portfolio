@@ -513,8 +513,8 @@
     color: #7f8cff;
     margin-bottom: 15px;
   }
-
-   .buttonresume {
+  
+  .buttonresume {
     position: static;
     display: flex;
     flex-direction: column;
